@@ -118,6 +118,7 @@ video {
 .insta img {
     width: 70px;
     height: auto;
+    justify-content: space-between;
 }
 
 
