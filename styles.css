@@ -102,7 +102,7 @@ video {
 }
 
 .presaveContainer {
-    top: 85%;
+    top: 80%;
     display: flex;
     justify-content: center;
     margin-top: 10px;
@@ -132,7 +132,7 @@ video {
 
 .clicaai{
     color: rgb(195, 168, 223);
-    top: 85%;
+    top: 80%;
     margin-top: 300px;
     margin-left: 30px;
     font-size: 12px;
