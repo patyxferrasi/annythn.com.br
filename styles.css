@@ -181,6 +181,7 @@ header {
 }
 
 footer {
+    margin-left: 8px;
     position: absolute;
     bottom: 10px;
     width: 100%;
