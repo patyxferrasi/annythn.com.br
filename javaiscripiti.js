@@ -13,10 +13,6 @@
 }
 });
 
-document.getElementById("botaoclose").addEventListener("click", function () {
-  let videoContainer = document.getElementById("videoContainer");
-  let video = videoContainer.querySelector("video");
-})
 
 document.addEventListener("DOMContentLoaded", function () {
   const emojis = ["🎀"]; // Variação de símbolos
