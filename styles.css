@@ -106,6 +106,7 @@ video {
     display: flex;
     justify-content: center;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .butaopresave {
@@ -116,7 +117,7 @@ video {
     padding: 10px 20px;
     border-radius: 8px;
     font-size: 14px;
-    
+    margin-bottom: 10px;
 }
 
 .butaopresave:hover {
@@ -187,6 +188,7 @@ footer {
     font-family: 'Press Start 2P';
     color: rgb(200, 142, 238);
     font-size: 8px;
+    padding: 10px;
 }
 
 .twitter img {
